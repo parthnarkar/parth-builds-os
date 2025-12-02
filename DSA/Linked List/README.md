@@ -1,4 +1,4 @@
-# 📁 Linked List — DSA Collection
+# 📁 Linked List - DSA Collection
 
 Welcome to the **Linked List** section of the DSA repository!
 Here you’ll find **topic-wise sets**, **clean explanations**, and **Java solutions** to help you master Linked Lists step-by-step.
