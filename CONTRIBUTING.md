@@ -6,12 +6,12 @@ Contributions are what make the open-source community an incredible place to lea
 
 ## 📋 Table of Contents
 
-- [Code of Conduct](https://github.com/parthnarkar/parth-builds-os/main/CONTRIBUTING.md#-code-of-conduct)
-- [How Can I Contribute?](#how-can-i-contribute)
-- [Getting Started](#getting-started)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Style Guide](#style-guide)
-- [Commit Messages](#commit-messages)
+- [Code of Conduct](https://github.com/parthnarkar/parth-builds-os/blob/main/CONTRIBUTING.md#-code-of-conduct)
+- [How Can I Contribute?](https://github.com/parthnarkar/parth-builds-os/blob/main/CONTRIBUTING.md#-how-can-i-contribute)
+- [Getting Started](https://github.com/parthnarkar/parth-builds-os/blob/main/CONTRIBUTING.md#-getting-started)
+- [Contribution Guidelines](https://github.com/parthnarkar/parth-builds-os/blob/main/CONTRIBUTING.md#-contribution-guidelines)
+- [Style Guide](https://github.com/parthnarkar/parth-builds-os/blob/main/CONTRIBUTING.md#-style-guide)
+- [Commit Messages](https://github.com/parthnarkar/parth-builds-os/blob/main/CONTRIBUTING.md#-commit-messages)
 
 ## 📜 Code of Conduct
 
@@ -129,7 +129,6 @@ Intuitive explanation of the solution approach
 - Empty input
 - Single element
 - Large inputs
-```
 
 ### For Documentation
 
