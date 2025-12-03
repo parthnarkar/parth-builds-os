@@ -6,7 +6,7 @@ Contributions are what make the open-source community an incredible place to lea
 
 ## 📋 Table of Contents
 
-- [Code of Conduct](https://github.com/parthnarkar/parth-builds-os/edit/main/CONTRIBUTING.md#-code-of-conduct)
+- [Code of Conduct](https://github.com/parthnarkar/parth-builds-os/main/CONTRIBUTING.md#-code-of-conduct)
 - [How Can I Contribute?](#how-can-i-contribute)
 - [Getting Started](#getting-started)
 - [Contribution Guidelines](#contribution-guidelines)
