@@ -127,4 +127,5 @@ class Solution {
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/parth_narkar)
 
 ### ⭐ Found this helpful? Give this Repo a STAR!
-**More DSA sets coming soon, Stay Tuned! 📘**
+
+[![parth-builds-os Github Repo Footer](https://github.com/user-attachments/assets/4bef3a04-16ee-4484-a52c-4f31182e1916)](https://github.com/parthnarkar/parth-builds-os)
